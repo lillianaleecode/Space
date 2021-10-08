@@ -4,6 +4,7 @@ Creating 3D Space and Scenes
 Work on Materials, Lights, Behaviors, and Cameras
 Audio, Prefabs, and Build & Test, etc...
 
+Lecturer: Brian Winn at Coursera Course Game Design and Development 1.
 
  To see the Project in the web browser, please follow this link: https://lillianaleecode.github.io/Space/HTML/SolarSystemWebGL/index.html
  
